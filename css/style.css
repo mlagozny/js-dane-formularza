@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+
+input {
+    color: brown;
+    background-color: palegoldenrod;
+}
+
+button {
+    background-color: chartreuse;
+
+}
+
+button:hover {
+    background-color: orange ;
+}
+
+p {
+    color: orangered;
+    font-size: 25px;
+}
